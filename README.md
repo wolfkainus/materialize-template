@@ -1,2 +1,1 @@
 # materialize-template
-# materialize-template
