@@ -1,2 +1,2 @@
 # materialize-template
-Materialize Template Elements
+# materialize-template
